@@ -5,6 +5,13 @@
     <artifactId>PHR_nodejs-webservice-hw</artifactId>
     <name>PHR_nodejs-webservice-hw</name>
     <version>1.0.0</version>
+    
+     <scm>
+        <connection>scm:git:git@github.com:phresco/nodejs-webservice-hw.git</connection>
+        <developerConnection>scm:git:git@github.com:phresco/nodejs-webservice-hw.git</developerConnection>
+        <url>https://github.com/phresco/nodejs-webservice-hw</url>
+    </scm>
+    
     <build>
         <sourceDirectory>source</sourceDirectory>
         <plugins>
